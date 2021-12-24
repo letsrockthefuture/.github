@@ -1,0 +1,13 @@
+{
+    "name": "Terraform",
+    "description": "Run the Terraform `plan` & `apply` commands on project.",
+    "iconName": "terraform_icon.png",
+    "categories": [
+        "Terraform"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
