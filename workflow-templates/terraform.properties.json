@@ -1,7 +1,7 @@
 {
     "name": "Terraform",
     "description": "Run the Terraform `plan` & `apply` commands on project.",
-    "iconName": "terraform_icon.png",
+    "iconName": "terraform_icon",
     "categories": [
         "Terraform"
     ],
